@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Azgar Rakib</h1>
 <h3 align="center">Backend Developer with Strong Focus on Laravel and PHP</h3>
 <div style="display: flex; justify-content: center;">
-  <img src="https://media.tenor.com/Ojl5HSvwX6QAAAAS/dog-laptop.gif" alt="Image" style="width: 100vw;">
+  <img src="https://media.tenor.com/Ojl5HSvwX6QAAAAS/dog-laptop.gif" alt="Image" style="width: 75vw;">
 </div>
 
 
