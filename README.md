@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Azgar Rakib</h1>
 <h3 align="center">Backend Developer with Strong Focus on Laravel and PHP</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fdog-laptop-type-gif-10696260&psig=AOvVaw1OVtVtP3EKz4NM5FLg-4FX&ust=1684435676569000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDX0IOC_f4CFQAAAAAdAAAAABAJ" alt="Image" style="float: right;">
+<img src="https://media.tenor.com/Ojl5HSvwX6QAAAAS/dog-laptop.gif" alt="Image" style="float: right;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-azgar-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="ali-azgar-rakib" /> </p>
 
