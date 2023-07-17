@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali Azgar Rakib</h1>
 <h3 align="center">Backend Developer with Strong Focus on Laravel and PHP</h3>
-<div style="display: flex; justify-content: center;">
-  <img src="https://media.tenor.com/Ojl5HSvwX6QAAAAS/dog-laptop.gif" alt="Image" style="width: 75vw;">
+<div>
+  <img src="https://static3.srcdn.com/wordpress/wp-content/uploads/2020/01/KEVINS-COMPUTER-THE-OFFICE.jpg" width="500">
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-azgar-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="ali-azgar-rakib" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=ali-azgar-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="ali-azgar-rakib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-azgar-rakib" alt="ali-azgar-rakib" /></a> </p>
 
 - 🔭 I’m currently working on [Multi Vendor Ecommerce Website With Laravel](https://github.com/ali-azgar-rakib/Multi-Vendor-Ecommerce-Website-With-Laravel)
 
