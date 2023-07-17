@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Azgar Rakib</h1>
 <h3 align="center">Backend Developer with Strong Focus on Laravel and PHP</h3>
 <div>
-  <img src="https://static3.srcdn.com/wordpress/wp-content/uploads/2020/01/KEVINS-COMPUTER-THE-OFFICE.jpg" width="500">
+  <img src="https://64.media.tumblr.com/eb4c387927b2546824eaa5a026ac7fb5/tumblr_ok5fin49rB1rs0w1ho1_500.gif" width="100%">
 </div>
 
 
