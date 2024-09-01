@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ali-azgar-rakib](https://github.com/ali-azgar-rakib)
 
-- 💬 Ask me about **Movie , Books **
+- 💬 Ask me about ** Movie , Books **
 
 - 📫 How to reach me **aliazgarrakib@gmail.com**
 
