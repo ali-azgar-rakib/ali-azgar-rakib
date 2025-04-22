@@ -28,5 +28,7 @@
 <a href="https://linkedin.com/in/rakib5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakib5" height="30" width="40" /></a>
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ali-azgar-rakib?theme=dark&font=Noto%20Sans%20Batak&ext=heatmap)
+
 
 
