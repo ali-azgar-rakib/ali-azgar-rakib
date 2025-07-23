@@ -9,7 +9,7 @@
 <p > <img src="https://komarev.com/ghpvc/?username=ali-azgar-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="ali-azgar-rakib" /> </p>
 
 
-- 🔭 I’m currently working on [](https://github.com/ali-azgar-rakib/simple-job-portal-mvc-php)
+- 🔭 I’m currently working on [Building MVC Structure web app using PHP](https://github.com/ali-azgar-rakib/simple-job-portal-mvc-php)
 
 - 🌱 I’m currently learning **Laravel**
 
