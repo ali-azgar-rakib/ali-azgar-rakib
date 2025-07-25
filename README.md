@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali Azgar Rakib</h1>
 <h3 align="center">Web Developer & Game Programmer ( Laravel,PHP,C++,Unreal Engine )</h3>
+<!-- 
 <h6 align="center">Keeps Scrolling.I am Watching.... 🙂 </h6>
 <div>
   <img src="https://64.media.tumblr.com/eb4c387927b2546824eaa5a026ac7fb5/tumblr_ok5fin49rB1rs0w1ho1_500.gif" width="100%">
-</div>
-
+</div>-->
 
 <p > <img src="https://komarev.com/ghpvc/?username=ali-azgar-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="ali-azgar-rakib" /> </p>
 
