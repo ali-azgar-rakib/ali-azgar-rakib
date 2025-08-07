@@ -12,7 +12,7 @@
 - ⚒️ I am currently working [Unreal Engine Multiplayer Shooter Game](https://github.com/ali-azgar-rakib/Unreal-Engine-Multiplayer-Shooter)
 - 🔭 Recently finished [Building MVC Structure web app using PHP](https://github.com/ali-azgar-rakib/simple-job-portal-mvc-php)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **GAS, Unreal Engine Advanced Optimization Techniques**
 
 - 👯 I’m looking to collaborate on [Unreal Engine Multiplayer Shooter Game](https://github.com/ali-azgar-rakib/Unreal-Engine-Multiplayer-Shooter)
 
