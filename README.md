@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **GAS, Unreal Engine Advanced Optimization Techniques**
 
-- 👯 I’m looking to collaborate on [Unreal Engine Multiplayer Shooter Game](https://github.com/ali-azgar-rakib/Unreal-Engine-Multiplayer-Shooter)
+- 👯 I’m looking to collaborate on [Smart Enemy AI System ](https://github.com/ali-azgar-rakib/Unreal-Engine-Smart-AI-Enemy)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ali-azgar-rakib](https://github.com/ali-azgar-rakib)
 
